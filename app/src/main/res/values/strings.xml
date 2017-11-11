@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Recycle Grid</string>
+    <string-array name="menu_title">
+        <item>Menu A</item>
+        <item>Menu B</item>
+        <item>Menu C</item>
+        <item>Menu D</item>
+        <item>Menu E</item>
+        <item>Menu F</item>
+        <item>Menu G</item>
+        <item>Menu H</item>
+        <item>Menu I</item>
+    </string-array>
+    <integer-array name="menu_image">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+    </integer-array>
+    <string-array name="menu_desc">
+        <item>Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet</item>
+        <item>Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet</item>
+        <item>Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet</item>
+        <item>Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet</item>
+        <item>Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet</item>
+        <item>Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet</item>
+        <item>Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet</item>
+        <item>Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet</item>
+        <item>Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet
+Lorem ipsum dolor sit almet Lorem ipsum dolor sit almet</item>
+    </string-array>
+
+</resources>
